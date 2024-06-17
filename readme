@@ -1,2 +1,7 @@
 #处理文件参考
 https://github.com/BI4O/BERT_Fintune_Models_for_chinese/tree/master/NER_model
+
+
+#大模型微调完成中医药命名实体识别的任务
+数据集处理
+https://github.com/IvanaXu/TianChiProj/blob/master/2023.07-5.CCKS2023_PromptCBLUE_12/PromptCBLUE-main/src/data/CBLUE%E4%BB%BB%E5%8A%A1%E6%94%B9%E9%80%A0%E8%AF%B4%E6%98%8E%E4%B8%8E%E4%B8%BE%E4%BE%8B.md
